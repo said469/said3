@@ -1,0 +1,89 @@
+
+body{
+     margin:0 0 0 0;  
+     border: 1px solid black;
+    background: linear-gradient(to left,black 50%, rgb(82, 73, 73) 30%) ;
+
+}
+img{
+    width: 15%;
+    border: 1px solid black;
+}
+.img1{
+    width: 50%;
+    margin-left: 40%;
+}
+h1{
+    color: rgb(19, 105, 180);
+    font-size: 50px;
+    width: 20%;
+    margin-left: 60%;
+}
+h3{
+
+    color:rgb(131, 124, 124);
+    font-size: 30px;
+    width: 20%;
+    margin-left: 60%;
+}
+.class2{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 15%;  
+    border: 2px solid rgb(112, 107, 107);
+    border-radius:30px ;
+}
+.div11{
+    
+    border: 10px  inset  bisque;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius :30px ;
+    background-image: url(image/capture\ 12.PNG);
+    background-repeat:no-repeat ;
+    background-size:50% ;
+    background-color: rgba(99, 93, 93, 0.158);
+
+}
+h2{
+    color: beige;
+    padding-left: 40%;
+    font-size: 40px;
+    background-image: url(cfa4cf9d-e5b3-41dd-8701-94a53bf5b3e2.jpeg);
+    background-position:bottom ;
+    background-repeat:no-repeat ;
+}
+.divbom{
+    margin: 0;
+}
+p{
+    padding-left:30% ;
+    color: blanchedalmond;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.div2{
+    margin-top: 0;
+    
+}
+a{
+    font-size: 40px;
+    color: white;
+    margin-left: 30%;
+   
+}
+.h123{
+    color: white;
+    margin-left: 25%;
+    font-size: 40px;
+
+}
+.h33{
+    color: rgb(196, 168, 168);
+    font-size: large;
+    padding-left:0%;
+
+}
+h4{
+    margin-left: 30%;
+    color: antiquewhite;
+}
